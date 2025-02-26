@@ -1,0 +1,44 @@
+# Arquivos gerados pelo ambiente virtual
+venv/
+.env/
+*.pyc
+*.pyo
+__pycache__/
+
+# Configurações de IDEs
+.vscode/
+.vs/
+.idea/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Arquivos de teste e cobertura
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+
+# Build e distribuição
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Configurações de cache
+.cache/
+*.mypy_cache/
+.pytest_cache/
+
+# Arquivos de pacotes pipenv e poetry
+Pipfile.lock
+poetry.lock
+
+cookies.txt
+
+musics/
